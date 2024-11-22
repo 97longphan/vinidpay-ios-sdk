@@ -1,9 +1,8 @@
 Pod::Spec.new do |s|
-  s.name             = 'vinidpay-ios-sdk'
+  s.name             = 'vinidpaysdknew'
   s.version          = '0.0.1'
-  s.homepage         = 'https://github.com/97longphan'
-  s.summary          = 'A short description of vinidpay-ios-sdk.'
-  s.homepage         = 'https://github.com/97longphan'
+  s.summary          = 'Vinid pay sdk to connect with OneU App'
+  s.homepage         = 'https://github.com/97longphan/vinidpay-ios-sdk'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '97longphan' => '97longphan@gmail.com' }
   s.source           = { :git => 'https://github.com/97longphan/vinidpay-ios-sdk.git', :tag => s.version.to_s }
